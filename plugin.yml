@@ -1,0 +1,5 @@
+name: SynchWorldAndNether
+main: nether.Plugin
+version: 1.0
+author: omni_keycard
+description: Increases the size of the Nether to the size of the Overworld (1 to 1)
